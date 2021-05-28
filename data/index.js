@@ -4,4 +4,5 @@ export const names = {
   'CPM 22': '',
   'Malakias': '',
   'Pipinelas': 'Guga',
+  'U2': 'Rose'
 }
