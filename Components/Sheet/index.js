@@ -9,7 +9,7 @@ export default function Sheet({names}) {
           <div key={name}>
             <h2>{name}</h2>
             <p>{owner}</p>
-            <p>{i + 1}</p>
+            <h3>{i + 1}</h3>
           </div>
         ))}
       </SheetBox>
