@@ -5,7 +5,7 @@ export const names = {
   'Malakias': '',
   'Pipinelas': 'Guga',
   'U2': 'Rose',
-  'Barões do Forro': ''
+  'Barões do Forro': '',
   'Bob Marley': '',
   'titans': '',
   'O rappa': 'Duart',
