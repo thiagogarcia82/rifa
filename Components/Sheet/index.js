@@ -7,7 +7,7 @@ export default function Sheet({names}) {
       <SheetBox>
         { Object.entries(names).map(([name, owner], i) => (
           <div key={name}>
-            <h2>{name}</h2>
+            <h2 style={{ color: owner ? 'green' : 'black' }}>{name}</h2>
             <p>{owner}</p>
             <h3>{i + 1}</h3>
           </div>
@@ -44,6 +44,13 @@ const SheetBox = styled.div`
     h2 {
       text-align: center;
       font-size: 18px;
+      margin: 0;
+      padding: 0;
+    }
+    
+    h3 {
+      text-align: center;
+      font-size: 14px;
       margin: 0;
       padding: 0;
     }
