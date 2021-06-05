@@ -5,7 +5,7 @@ export default function Sheet({names}) {
     <StyledSheet>
       <h1>Rifa das Bandas</h1>
       <SheetBox>
-        { Object.entries(names, i).map(([name, owner]) => (
+        { Object.entries(names).map(([name, owner], i) => (
           <div key={name}>
             <h2>{name}</h2>
             <p>{owner}</p>
