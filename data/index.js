@@ -1,9 +1,9 @@
 export const names = {
   'Charlie Brown Jr': '',
-  'Raimundos': '',
+  'Raimundos ':'vaga',
   'CPM 22': '',
   'Malakias': '',
   'Pipinelas': 'Guga',
   'U2': 'Rose',
-  'Barões do Forro': ''
+  'Baroões do Forro': ''
 }
