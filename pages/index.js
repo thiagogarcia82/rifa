@@ -4,7 +4,7 @@ import Password from '../Components/Password';
 import { names } from '../data';
 
 export default function Home() {
-  const [passMatch, setPassMatch] = useState(false);
+  const [passMatch, setPassMatch] = useState(true);
   const [value, setValue] = useState('');
 
   useEffect(() => {
