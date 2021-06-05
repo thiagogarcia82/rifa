@@ -5,10 +5,11 @@ export default function Sheet({names}) {
     <StyledSheet>
       <h1>Rifa das Bandas</h1>
       <SheetBox>
-        { Object.entries(names).map(([name, owner]) => (
+        { Object.entries(names, i).map(([name, owner]) => (
           <div key={name}>
             <h2>{name}</h2>
             <p>{owner}</p>
+            <p>{i + 1}</p>
           </div>
         ))}
       </SheetBox>
