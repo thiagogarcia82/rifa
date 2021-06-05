@@ -5,5 +5,5 @@ export const names = {
   'Malakias': '',
   'Pipinelas': 'Guga',
   'U2': 'Rose',
-  'Baroões do Forro': ''
+  'Baroões doForro': ''
 }
