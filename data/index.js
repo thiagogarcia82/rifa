@@ -12,5 +12,6 @@ export const names = {
   'Skunk': '',
   'o surto': '',
   'dj alok': '',
+  'dj grenday': '',
 }
   
