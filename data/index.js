@@ -13,5 +13,19 @@ export const names = {
   'o surto': '',
   'dj alok': '',
   'dj grenday': '',
+  'dj alok': '',
+  'dj alok': '',
+  'dj alok': '',
+  'dj alok': '',
+'dj alok': '',
+'dj alok': '',
+'dj alok': '',
+'dj alok': '',
+  'dj grenday': '',
+  'dj alok': '',
+  'dj alok': '',
+  'dj alok': '',
+  'dj alok': '',
+  
 }
   
