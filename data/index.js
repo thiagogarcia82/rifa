@@ -29,20 +29,6 @@ export const names = {
   'Skunk': '',
   'o surto': '',
   'dj alok': '',
-  'dj grenday': '',
-  'dj alok': '',
-  'dj alok': '',
-  'dj alok': '',
-  'dj alok': '',
-  'dj aslok': '',
-  'dj alok': '',
-  'dj alok': '',
-  'dj alok': '',
-  'grenday': '',
-  'dj ramones': '',
-  'dj alok': '',
-  'dj alok': '',
-  'dj alok': '',
-  'Bad Religion': '',
+  
 }
   
