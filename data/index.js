@@ -43,6 +43,6 @@ export const names = {
   'dj alok': '',
   'dj alok': '',
   'dj alok': '',
-  
+  'Bad Religion': '',
 }
   
