@@ -16,7 +16,7 @@ export const names = {
   'grenday': '',
   'dj ramones': '',
   'Skunk': '',
-  'o surto': '',
+  'Nofx': '',
   
   }
   
