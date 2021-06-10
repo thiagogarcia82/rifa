@@ -23,6 +23,17 @@ export const names = {
   'Ofspring': '',
   'Sublime': '',
   'Dead fish': '',
+  'grenday': '',
+  'Supla': '',
+  'dj ramones': '',
+  'Jota quest': '',
+  'Ultrage a rigor': '',
+  'Legiao urbana': '',
+  'Red hot': '',
+  'Queem': '',
+  'Placebo': '',
+  'The killers': '',
+  'Nirvana': '',
   
   }
   
