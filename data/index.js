@@ -17,6 +17,11 @@ export const names = {
   'dj ramones': '',
   'Skunk': '',
   'Nofx': '',
+  'Natiruts': '',
+  'Planet hamp': '',
+  'Capital inicial': '',
+  'Ofspring': '',
+  'Sublime': '',
   'Dead fish': '',
   
   }
