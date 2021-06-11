@@ -17,7 +17,7 @@ export const names = {
   'Ramones': '',
   'Skunk': '',
   'Nofx': '',
-  'Natiruts': '',
+  'Natiruts': 'Ra',
   'Planet hamp': '',
   'Capital inicial': '',
   'Ofspring': '',
