@@ -30,9 +30,9 @@ export const names = {
   'Ultrage a rigor': '',
   'Legiao urbana': '',
   'Red hot': '',
-  'Queem': '',
+  'Queem': 'vaga',
   'Placebo': '',
-  'The killers': '',
+  'The killers': 'Ra',
   'Nirvana': '',
   
   }
