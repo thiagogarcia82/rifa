@@ -34,5 +34,7 @@ export const names = {
   'Placebo': '',
   'The killers': 'Ra',
   'Nirvana': '',
+'1°🍾 🍁Sortudo🍁 
+ 12G sKUNK WITH WIDON': '', 
   }
   
