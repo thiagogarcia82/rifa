@@ -15,7 +15,7 @@ export const names = {
   'Coldplay': '',
   'Dire Straits': '',
   'Ramones': '',
-  'Skunk': '',
+  'Skunk': 'Duart 2',
   'Nofx': '',
   'Natiruts': 'Ra',
   'Planet Hemp': '',
