@@ -11,7 +11,7 @@ export const names = {
   'O Rappa': '',
   'Skunk': 'Duart',
   'O Surto': '',
-  'DJ Alok': '',
+  'DJ Alok': 'Andre',
   'Coldplay': '',
   'Dire Straits': '',
   'Ramones': 'Luiz',
@@ -21,7 +21,7 @@ export const names = {
   'Planet Hemp': '',
   'Capital Inicial': 'Therez',
   'Offspring': '',
-  'Sublime': '',
+  'Sublime': 'Michel',
   'Dead Fish': '',
   'Grenday': '',
   'Supla': 'Luiz',
@@ -33,7 +33,7 @@ export const names = {
   'Queem': '',
   'Placebo': '',
   'The killers': 'Ra',
-  'Nirvana': '',
+  'Nirvana': 'Pochaco',
   
   }
   
