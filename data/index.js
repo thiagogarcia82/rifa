@@ -14,12 +14,12 @@ export const names = {
   'DJ Alok': '',
   'Coldplay': '',
   'Dire Straits': '',
-  'Ramones': '',
+  'Ramones': 'Luiz',
   'Skunk': 'Duart 2',
   'Nofx': '',
   'Natiruts': 'Ra',
   'Planet Hemp': '',
-  'Capital Inicial': '',
+  'Capital Inicial': 'Therez',
   'Offspring': '',
   'Sublime': '',
   'Dead Fish': '',
@@ -34,7 +34,6 @@ export const names = {
   'Placebo': '',
   'The killers': 'Ra',
   'Nirvana': '',
-'1°🍾 🍁Sortudo🍁 
- 12G sKUNK WITH WIDON': '', 
+  
   }
   
