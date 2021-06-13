@@ -4,7 +4,7 @@ export const names = {
   'CPM 22': 'Ra',
   'Malakias': 'Paulinho',
   'Pipinelas': 'Guga',
-  'U2': 'Rose',
+  'U2': 'RosI',
   'Barões do Forro': '',
   'Bob Marley': '',
   'Titans': '',
