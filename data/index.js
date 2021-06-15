@@ -34,6 +34,7 @@ export const names = {
   'Placebo': '',
   'The killers': 'Ra',
   'Nirvana': 'Pochaco',
+  'Bob marleu': 'Michel,
   
   }
   
