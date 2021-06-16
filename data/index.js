@@ -16,7 +16,7 @@ export const names = {
   'Dire Straits': '',
   'Ramones': 'Luiz',
   'Skunk': 'Duart 2',
-  'Nofx': '',
+  'Nofx': 'Andre lábela',
   'Natiruts': 'Ra',
   'Planet Hemp': '',
   'Capital Inicial': 'Therez',
@@ -34,7 +34,7 @@ export const names = {
   'Placebo': '',
   'The killers': 'Ra',
   'Nirvana': 'Pochaco',
-  'Bob marleu': 'Michel',
+  'Bob marley': 'Michel',
   
   }
   
