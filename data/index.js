@@ -12,7 +12,7 @@ export const names = {
   'Skunk': 'Duart',
   'O Surto': '',
   'DJ Alok': 'Andre',
-  'Coldplay': '',
+  'Coldplay': 'Kauan',
   'Dire Straits': '',
   'Ramones': 'Luiz',
   'Skunk': 'Duart 2',
