@@ -8,7 +8,7 @@ export const names = {
   'Barões do Forro': '',
   'Rau seixas': 'Carlao',
   'Titans': '',
-  'O Rappa': '',
+  'O Rappa': 'lucas',
   'Skunk': 'Duart',
   'O Surto': '',
   'DJ Alok': 'Andre',
