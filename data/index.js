@@ -36,6 +36,12 @@ export const names = {
   'Nirvana': 'Pochaco',
   'Bob marley': 'Michel',
   '1▪︎sorteio': 'Teste',
+  '2▪︎sorteio': 'Teste',
+  '3▪︎sorteio': 'Teste',
+  '4▪︎sorteio': '1 cd',
+  '5▪︎sorteio': '1 cd',
+  '6▪︎sorteio': '12 cds',
+  
   
   }
   
