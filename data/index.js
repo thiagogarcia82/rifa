@@ -35,6 +35,7 @@ export const names = {
   'The killers': 'Ra',
   'Nirvana': 'Pochaco',
   'Bob marley': 'Michel',
+  '1▪︎sorteio': 'Teste',
   
   }
   
