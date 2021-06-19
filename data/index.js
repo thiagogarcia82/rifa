@@ -22,7 +22,7 @@ export const names = {
   'Capital Inicial': 'Therez',
   'Offspring': 'wilhan',
   'Sublime': 'Michel',
-  'Dead Fish': '',
+  'Dead Fish': 'Creck',
   'Grenday': '',
   'Supla': 'Luiz',
   'Ramones': '',
