@@ -1,5 +1,5 @@
 export const names = {
-  'Charlie Brown Jr': 'guilherme',
+  'Charlie Brown Jr': '',
   'Raimundos ':'vaga',
   'CPM 22': 'Ra',
   'Malakias': 'Paulinho',
@@ -25,7 +25,7 @@ export const names = {
   'Dead Fish': 'Creck',
   'Grenday': '',
   'Supla': 'Luiz',
-  'Ramones': '',
+  'Ramones': 'guilherme',
   'Jota Quest': 'Alexandre',
   'Ultrage a Rigor': '',
   'Legiao Urbana': 'Ivan',
