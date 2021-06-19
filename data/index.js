@@ -41,6 +41,7 @@ export const names = {
   '4▪︎sorteio': '1 cd',
   '5▪︎sorteio': '1 cd',
   '6▪︎sorteio': '12 cds',
+  'Valor 35$': '', 
   
   
   }
