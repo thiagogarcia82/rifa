@@ -31,7 +31,7 @@ export const names = {
   'Legiao Urbana': 'Ivan',
   'Red Hot ': 'Thiago',
   'Queem': '',
-  'Placebo': '',
+  'Placebo': 'Rubia',
   'The killers': 'Ra',
   'Nirvana': 'Pochaco',
   'Bob marley': 'Michel',
